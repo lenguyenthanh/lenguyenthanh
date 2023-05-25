@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lenguyenthanh&theme=onedark&no-frame=true&no-bg=true)](https://www.thanh.se)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lenguyenthanh&theme=onedark&no-frame=true&no-bg=true&column=5)](https://www.thanh.se)
 
 My name is Thanh Le.
 
